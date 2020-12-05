@@ -7,9 +7,37 @@ html{
 body {
   font-family: "Roboto";
   color:black;
-  Background-color: #09caec81;
+  background-color: rgba(19, 167, 212, 0.267);
 }
 .title{
   font-size: 10vh;
   text-align: center;
+}
+#grad1 {
+  height: 200px;
+  background-color: #cccccc;
+  background-image: repeating-radial-gradient(red, yellow 10%, green 15%);
+}
+.Pepernoten{
+  height: 50vh;
+  width: 50vw;
+}
+.Antwoorden{
+  color: red;
+}
+.a1{
+  color: lightsalmon;
+}
+.a2{
+  color: yellow;
+}
+.a3{
+  color: midnightblue;
+}
+.a4{
+  color: mediumvioletred;
+}
+.banana{
+  height: 100vh;
+  width: 100vw;
 }
